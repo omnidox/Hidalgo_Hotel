@@ -618,9 +618,9 @@ height="4.864583333333333in"}
 b.  Click on Rooms on the sidebar menu. Click on Add Room and Edit.
     Verify that the respective pages are loaded.
 
-> ![Graphical user interface, text, website Description automatically
-> generated](./extracted_images/media/image24.png){width="6.5in"
-> height="4.704166666666667in"}
+ ![Graphical user interface, text, website Description automatically
+ generated](./extracted_images/media/image24.png){width="6.5in"
+ height="4.704166666666667in"}
 
 ![A screenshot of a computer Description automatically
 generated](./extracted_images/media/image25.png){width="6.5in"
