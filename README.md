@@ -17,46 +17,46 @@ CSIT537-01
 [Description of Hotel System
 [3](#description-of-hotel-system)]
 
-[System Components [4](#system-components)](#system-components)
+[System Components [4](#system-components)]
 
-[Database Design [4](#database-design)](#database-design)
+[Database Design [4](#database-design)]
 
-[Assumptions [5](#assumptions)](#assumptions)
+[Assumptions [5](#assumptions)]
 
-[Version 1 ERD [7](#version-1-erd)](#version-1-erd)
+[Version 1 ERD [7](#version-1-erd)]
 
-[Version 2 ERD [9](#version-2-erd)](#version-2-erd)
+[Version 2 ERD [9](#version-2-erd)]
 
-[Version 3 ERD [10](#version-3-erd)](#version-3-erd)
+[Version 3 ERD [10](#version-3-erd)]
 
-[Relational Schema [11](#relational-schema)](#relational-schema)
+[Relational Schema [11](#relational-schema)]
 
-[MVC [12](#mvc)](#mvc)
+[MVC [12](#mvc)]
 
-[Testing [12](#testing)](#testing)
+[Testing [12](#testing)]
 
 [Test Plan: User Interface Testing
-[12](#test-plan-user-interface-testing)](#test-plan-user-interface-testing)
+[12](#test-plan-user-interface-testing)]
 
-[Objectives: [12](#objectives)](#objectives)
+[Objectives: [12](#objectives)]
 
-[Scope: [12](#scope)](#scope)
+[Scope: [12](#scope)]
 
-[Test Cases: [13](#test-cases)](#test-cases)
+[Test Cases: [13](#test-cases)]
 
-[Test Steps: [13](#test-steps)](#test-steps)
+[Test Steps: [13](#test-steps)]
 
-[Expected Results: [15](#expected-results)](#expected-results)
+[Expected Results: [15](#expected-results)]
 
-[Actual Results: [15](#actual-results)](#actual-results)
+[Actual Results: [15](#actual-results)]
 
-[Test Discussion [44](#test-discussion)](#test-discussion)
+[Test Discussion [44](#test-discussion)]
 
-[Conclusion [45](#conclusion)](#conclusion)
+[Conclusion [45](#conclusion)]
 
-[References [45](#references)](#references)
+[References [45](#references)]
 
-[Video Link For Demo [45](#video-link-for-demo)](#video-link-for-demo)
+[Video Link For Demo [45](#video-link-for-demo)]
 
 # Description of Hotel System
 
