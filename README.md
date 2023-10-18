@@ -1,5 +1,4 @@
-![](./extracted_images/media/image1.jpeg){width="6.439583333333333in"
-height="1.0756944444444445in"}
+![](./extracted_images/media/image1.jpeg)
 
 Hidalgo Hotel Website
 
@@ -13,10 +12,10 @@ Dr. Jenq
 
 CSIT537-01
 
-# Contents {#contents .TOC-Heading}
+# Contents
 
 [Description of Hotel System
-[3](#description-of-hotel-system)](#description-of-hotel-system)
+[3](#description-of-hotel-system)]
 
 [System Components [4](#system-components)](#system-components)
 
