@@ -474,52 +474,52 @@ c.  Attempt to delete a room that has active bookings and verify that
 a.  Click on login button on the homepage. Verify that the login page is
     loaded.
 
-> ![Graphical user interface, application Description automatically
-> generated](./extracted_images/media/image6.png){width="6.5in"
-> height="5.839583333333334in"}
+ ![Graphical user interface, application Description automatically
+ generated](./extracted_images/media/image6.png){width="6.5in"
+ height="5.839583333333334in"}
 
 b.  Click on Register button on the login page. Verify that the
     registration page is loaded.
 
-> ![Graphical user interface, application Description automatically
-> generated](./extracted_images/media/image7.png){width="5.763888888888889in"
-> height="7.924305555555556in"}
+ ![Graphical user interface, application Description automatically
+ generated](./extracted_images/media/image7.png){width="5.763888888888889in"
+ height="7.924305555555556in"}
 
 c.  Click on Rooms button on the homepage. Verify that the Rooms page is
     loaded.
 
-> ![Graphical user interface, website Description automatically
-> generated](./extracted_images/media/image8.png){width="6.5in"
-> height="5.170138888888889in"}
+ ![Graphical user interface, website Description automatically
+ generated](./extracted_images/media/image8.png){width="6.5in"
+ height="5.170138888888889in"}
 
 d.  Click on the Reservation Search page. Verify the page is loaded.
 
-> ![Graphical user interface, text, application, email Description
-> automatically
-> generated](./extracted_images/media/image9.png){width="6.5in"
-> height="1.4625in"}
+ ![Graphical user interface, text, application, email Description
+ automatically
+ generated](./extracted_images/media/image9.png){width="6.5in"
+ height="1.4625in"}
 
 e.  Click on Facilities, Local Travel, and Fine Dining buttons on the
     homepage. Verify that the respective pages are loaded.
 
-> ![Graphical user interface, text, application, email Description
-> automatically
-> generated](./extracted_images/media/image9.png){width="6.5in"
-> height="1.4625in"}
+ ![Graphical user interface, text, application, email Description
+ automatically
+ generated](./extracted_images/media/image9.png){width="6.5in"
+ height="1.4625in"}
 
 f.  In the Rooms Page, Click on Book Now while the user is logged off.
     Verify that the user is redirected to the login page.
 
-> ![Graphical user interface Description automatically
-> generated](./extracted_images/media/image10.png){width="4.509722222222222in"
-> height="4.226388888888889in"}
+ ![Graphical user interface Description automatically
+ generated](./extracted_images/media/image10.png){width="4.509722222222222in"
+ height="4.226388888888889in"}
 
 g.  Click on Book Now! button on the Rooms page while the user is logged
     on. Verify that the user is redirected to the booking page.
 
-> ![Graphical user interface Description automatically generated with
-> medium confidence](./extracted_images/media/image11.png){width="6.5in"
-> height="6.4625in"}
+ ![Graphical user interface Description automatically generated with
+ medium confidence](./extracted_images/media/image11.png){width="6.5in"
+ height="6.4625in"}
 
 ##### Input Data:
 
@@ -527,32 +527,32 @@ a.  Enter valid details in the registration form and click on the
     register button. Verify that the user is registered and redirected
     to the login page.
 
-> ![Graphical user interface Description automatically
-> generated](./extracted_images/media/image12.png){width="6.5in"
-> height="5.754861111111111in"}
+ ![Graphical user interface Description automatically
+ generated](./extracted_images/media/image12.png){width="6.5in"
+ height="5.754861111111111in"}
 
 b.  Enter valid credentials in the login form and click on the login
     button. Verify that the user is logged in and redirected to the
     homepage.
 
-> ![Graphical user interface Description automatically
-> generated](./extracted_images/media/image12.png){width="6.5in"
-> height="5.754861111111111in"}
+ ![Graphical user interface Description automatically
+ generated](./extracted_images/media/image12.png){width="6.5in"
+ height="5.754861111111111in"}
 
 c.  In the Rooms page, enter valid check-in and check-out dates, room
     type, and click on the Book Now! button. Verify that the booking is
     confirmed, and the user is redirected to the booking page.
 
-> ![Graphical user interface, text Description automatically
-> generated](./extracted_images/media/image13.png){width="6.5in"
-> height="4.613194444444445in"}
+ ![Graphical user interface, text Description automatically
+ generated](./extracted_images/media/image13.png){width="6.5in"
+ height="4.613194444444445in"}
 
 d.  In the booking page, input 1 adult and 1 child. Click on book now.
     Should bring you to the confirmation page.
 
-> ![Graphical user interface Description automatically
-> generated](./extracted_images/media/image14.png){width="6.5in"
-> height="4.707638888888889in"}
+ ![Graphical user interface Description automatically
+ generated](./extracted_images/media/image14.png){width="6.5in"
+ height="4.707638888888889in"}
 
 ##### Responsive Design:
 
@@ -571,35 +571,35 @@ height="3.3208333333333333in"}
 b.  Enter invalid credentials in the login form and click on the login
     button. Verify that the system displays an error message.
 
-> ![Graphical user interface, website Description automatically
-> generated](./extracted_images/media/image17.png){width="5.424305555555556in"
-> height="4.886805555555555in"}
+ ![Graphical user interface, website Description automatically
+ generated](./extracted_images/media/image17.png){width="5.424305555555556in"
+ height="4.886805555555555in"}
 
 c.  Submit the registration form with invalid details and verify that
     the system displays appropriate error messages.
 
-> ![Graphical user interface, text, application Description
-> automatically
-> generated](./extracted_images/media/image18.png){width="4.254861111111111in"
-> height="1.9625in"}
->
-> ![Graphical user interface, text, application Description
-> automatically
-> generated](./extracted_images/media/image19.png){width="4.915277777777778in"
-> height="1.0659722222222223in"}
+ ![Graphical user interface, text, application Description
+ automatically
+ generated](./extracted_images/media/image18.png){width="4.254861111111111in"
+ height="1.9625in"}
+
+ ![Graphical user interface, text, application Description
+ automatically
+ generated](./extracted_images/media/image19.png){width="4.915277777777778in"
+ height="1.0659722222222223in"}
 
 d.  In the booking page submit the booking form with invalid details and
     verify that the system displays appropriate error messages.
 
-> ![Graphical user interface, text, application, email Description
-> automatically
-> generated](./extracted_images/media/image20.png){width="6.5in"
-> height="2.207638888888889in"}
->
-> ![Graphical user interface, application, Word Description
-> automatically
-> generated](./extracted_images/media/image21.png){width="6.5in"
-> height="1.3680555555555556in"}
+ ![Graphical user interface, text, application, email Description
+ automatically
+ generated](./extracted_images/media/image20.png){width="6.5in"
+ height="2.207638888888889in"}
+
+ ![Graphical user interface, application, Word Description
+ automatically
+ generated](./extracted_images/media/image21.png){width="6.5in"
+ height="1.3680555555555556in"}
 
 #### Admin
 
@@ -607,9 +607,9 @@ d.  In the booking page submit the booking form with invalid details and
 
 a.  Log in to the admin panel and verify that the dashboard is loaded.
 
-> ![Graphical user interface Description automatically
-> generated](./extracted_images/media/image22.png){width="6.05292760279965in"
-> height="4.458955599300087in"}
+ ![Graphical user interface Description automatically
+ generated](./extracted_images/media/image22.png){width="6.05292760279965in"
+ height="4.458955599300087in"}
 
 ![Text Description automatically
 generated](./extracted_images/media/image23.png){width="6.5in"
